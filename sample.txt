@@ -1,2 +1,4 @@
 Hello.
 I am from japan.
+I am good
+
