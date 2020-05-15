@@ -1,1 +1,2 @@
--m Hello./n I am from japan
+Hello.
+I am from japan.
